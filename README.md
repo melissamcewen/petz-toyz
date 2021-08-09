@@ -19,6 +19,6 @@ Here you'll find toys as well as the frames which may be useful for converting t
 - [ ] Change name in RCData
 - [ ] Change ID of any dependent sub-toys in RCData
 - [ ] Open in Hex Editor and find and replace
-- [ ] Check for paths in Hex Editor
+- [ ] Check for paths in Hex Editor (search for "Resource" and see if it references any incorrect paths)
 - [ ] Add images for base toy
 - [ ] Add images for away
